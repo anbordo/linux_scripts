@@ -7,3 +7,4 @@ echo "Memory Usage"
 free -m
 echo "Network Usage"
 ip a
+### test info ###
